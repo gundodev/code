@@ -1,0 +1,5 @@
+{
+  "name": "InterGen",
+  "description": "A next-generation AI interface capable of code generation, intelligent conversation, and image creation using Gemini.",
+  "requestFramePermissions": []
+}
